@@ -1,0 +1,10 @@
+net\petrikainulainen\spring\testmvc\common\controller\ErrorControllerTest.class
+net\petrikainulainen\spring\testmvc\todo\controller\StandaloneTodoControllerTest.class
+net\petrikainulainen\spring\testmvc\todo\WebTestConstants.class
+net\petrikainulainen\spring\testmvc\todo\controller\WebApplicationContextTodoControllerTest.class
+net\petrikainulainen\spring\testmvc\todo\service\RepositoryTodoServiceTest.class
+net\petrikainulainen\spring\testmvc\config\TestContext.class
+net\petrikainulainen\spring\testmvc\todo\dto\TodoDTOBuilder.class
+net\petrikainulainen\spring\testmvc\todo\model\TodoBuilder.class
+net\petrikainulainen\spring\testmvc\todo\model\TodoTest.class
+net\petrikainulainen\spring\testmvc\todo\TestUtil.class
