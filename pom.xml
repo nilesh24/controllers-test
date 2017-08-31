@@ -8,6 +8,7 @@
     <name>Spring MVC Test - Writing Unit Tests for Controllers</name>
     <description>An example application that demonstrates the unit testing of "normal" Spring MVC controllers.</description>
   
+         
   <licenses>
         <license>
             <name>Apache License 2.0</name>
